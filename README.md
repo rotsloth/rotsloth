@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rotsloth
 - 👀 I’m interested in learning programs and code 
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nural programs
+- 💞️ I’m looking to collaborate on neural programs
 - 📫 How to reach me: motodanortiz@gmail.com
 
 <!---
